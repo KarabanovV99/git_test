@@ -7,4 +7,4 @@ if f - d == 0:
     print("Делить на ноль нельзя!")
 else:
     k = (a * b - c) / (f - d)
-print(k)
+    print(k)
