@@ -1,4 +1,4 @@
-n = (input())
+n = input()
 if "." in n:
     print("float")
 else:

@@ -1,4 +1,4 @@
-n = str(input())
+n = input()
 m = n[::-1]
 if n == m:
     print("палиндром")
