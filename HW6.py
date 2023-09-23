@@ -1,5 +1,5 @@
-n = str(input())
+n = (input())
 if "." in n:
-    print("flat")
+    print("float")
 else:
     print("int")
