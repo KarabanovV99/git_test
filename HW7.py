@@ -1,4 +1,5 @@
 import math
+
 x = float(input())
 y = float(input())
 c = 0
